@@ -1,5 +1,5 @@
 Tea 25
-Cofee 30
+Cofee 40
 Sandwich 50
 Juice 40
 Iced Cold Coffee 45
